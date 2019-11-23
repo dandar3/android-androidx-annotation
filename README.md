@@ -7,6 +7,8 @@ https://maven.google.com/androidx/annotation/annotation/1.0.0/annotation-1.0.0.j
 - `Android 9.0 (API 28) SDK Platform`
 
 **References:**
+- https://developer.android.com/jetpack
+- https://developer.android.com/jetpack/androidx/releases/annotation
 
 **SVN checkout:**
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
